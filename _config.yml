@@ -1,0 +1,29 @@
+title: Nathan Sauldubois
+name: Nathan Sauldubois
+description: Postdoctoral Researcher in Applied Mathematics at NYU Tandon School of Engineering
+url: ""
+baseurl: ""
+
+author:
+  name: Nathan Sauldubois
+  title: Postdoctoral Researcher in Applied Mathematics
+  institution: NYU Tandon School of Engineering
+  department: Financial Risk Engineering
+  location: New York, NY
+  research_fields:
+    - mathematical finance
+    - distributionally robust optimization
+    - optimal transport
+    - adapted Wasserstein geometry
+    - model risk
+    - martingale constraints
+    - semi-static hedging
+    - BSDEs/RBSDEs
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
