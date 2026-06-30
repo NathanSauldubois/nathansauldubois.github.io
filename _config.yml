@@ -1,7 +1,7 @@
 title: Nathan Sauldubois
 name: Nathan Sauldubois
 description: Postdoctoral Researcher in Applied Mathematics at NYU Tandon School of Engineering
-url: ""
+url: "https://nathansauldubois.github.io"
 baseurl: ""
 
 author:
@@ -22,6 +22,9 @@ author:
 
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
