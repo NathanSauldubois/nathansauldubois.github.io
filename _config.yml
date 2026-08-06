@@ -27,3 +27,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - Ressources
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - vendor

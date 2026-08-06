@@ -41,7 +41,7 @@ Edit `articles.md` and add new entries to the article list. Keep each entry in a
 
 ## Adding GitHub Repositories
 
-Edit `repositories.md` and replace the placeholder repository names and links with active GitHub repositories.
+Edit `repositories.md` to add, remove, or update active GitHub repositories.
 
 ## Running Locally
 
