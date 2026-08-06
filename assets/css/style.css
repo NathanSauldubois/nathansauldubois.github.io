@@ -5,7 +5,6 @@
   --border: #d9dee3;
   --link: #174ea6;
   --link-hover: #0b3d91;
-  --accent: #0f766e;
   --surface: #f7f8fa;
 }
 
@@ -202,23 +201,6 @@ li {
 .button-link:focus {
   background: var(--surface);
   text-decoration: none;
-}
-
-.cv-preview {
-  margin: 28px 0 34px;
-}
-
-.cv-preview img {
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  box-shadow: 0 10px 30px rgba(32, 33, 36, 0.08);
-  width: min(100%, 720px);
-}
-
-.cv-preview figcaption {
-  color: var(--muted);
-  font-size: 14px;
-  margin-top: 8px;
 }
 
 .note {
