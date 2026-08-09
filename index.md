@@ -29,23 +29,3 @@ I received my Ph.D. in Applied Mathematics from &Eacute;cole Polytechnique under
   <li>Wasserstein Gradient Flow</li>
   <li>Particle methods</li>
 </ul>
-
-## Selected Work
-
-<ul class="article-list compact-list">
-  <li>
-    <h2>First-Order Martingale Model Risk and Semi-Static Hedging</h2>
-    <p class="meta">With Nizar Touzi. arXiv:2410.06906.</p>
-    <p>First-order sensitivities for model risk under martingale and marginal constraints, with applications to semi-static hedging.</p>
-  </li>
-  <li>
-    <h2>Sensitivity Analysis of Distributionally Robust BSDEs and RBSDEs</h2>
-    <p class="meta">With Arthur Compoint and Nizar Touzi. arXiv:2511.01828.</p>
-    <p>Sensitivity formulas for distributionally robust control and optimal stopping problems in a non-Markovian BSDE/RBSDE setting.</p>
-  </li>
-  <li>
-    <h2>Projected McKean--Vlasov Dynamics for Entropic Weak Optimal Transport</h2>
-    <p class="meta">With Xin Zhang. arXiv:2605.30560.</p>
-    <p>Gradient-flow dynamics in adapted Wasserstein space for entropy-regularized weak optimal transport.</p>
-  </li>
-</ul>
