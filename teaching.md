@@ -39,9 +39,9 @@ My teaching interests are in stochastic calculus, mathematical finance, probabil
 ## Previous Teaching
 
 <ul>
-  <li>Probability Refreshers, Master X-HEC Data Science for Business, 2022-2025.</li>
-  <li>Stochastic Models in Finance, &Eacute;cole Polytechnique, 2022-2025.</li>
-  <li>Convex Optimization and Control, third-year bachelor's course, 2022-2025.</li>
+  <li>Probability Refreshers, Master X-HEC Data Science for Business, 2022-2025 &mdash; teaching assistant for practical sessions.</li>
+  <li>Stochastic Models in Finance, &Eacute;cole Polytechnique, 2022-2025 &mdash; tutor and homework grader.</li>
+  <li>Convex Optimization and Control, third-year bachelor's course, 2022-2025 &mdash; teaching assistant for tutorial sessions.</li>
   <li>Preparatory Classes (CPGE), oral exam preparation tutor at Lyc&eacute;e du Parc, 2019-2020.</li>
 </ul>
 
