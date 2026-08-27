@@ -37,6 +37,11 @@ Selected research code and teaching material.
 
 <ul class="repository-list">
   <li>
+    <h2>Summer Bootcamp</h2>
+    <p>Student resources for the Summer Bootcamp taught in the M.S. in Financial Risk Engineering at NYU Tandon.</p>
+    <p><a href="https://github.com/NathanSauldubois/Summer-Bootcamp.git">GitHub repository</a></p>
+  </li>
+  <li>
     <h2>Stochastic Calculus and Option Pricing</h2>
     <p>Student resources for the graduate Option Pricing and Stochastic Calculus course in the M.S. in Financial Risk Engineering at NYU Tandon.</p>
     <p><a href="https://github.com/NathanSauldubois/Student-Ressources-Stochastic-Calculus-and-Option-Pricing.git">GitHub repository</a></p>

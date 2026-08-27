@@ -43,24 +43,3 @@ permalink: /articles/
     <p>Doctoral manuscript in applied mathematics on probability, optimal transport, martingale optimal transport, model risk, and distributionally robust optimization.</p>
   </li>
 </ul>
-
-## Work in Preparation
-
-<ul class="article-list compact-list">
-  <li>
-    <h2>Distributionally Robust Optimization in Continuous Time Under Law Constraints</h2>
-    <p class="meta">Robert Crowell, Nathan Sauldubois, and Nizar Touzi. 2025.</p>
-  </li>
-  <li>
-    <h2>Order-n Expansions in Classical and Causal Distributionally Robust Optimization</h2>
-    <p class="meta">Nathan Sauldubois. 2024.</p>
-  </li>
-  <li>
-    <h2>A Linear-Quadratic Mean-Field Games Approach to the Marketplace Problem</h2>
-    <p class="meta">Nathan Sauldubois and Nizar Touzi. 2023.</p>
-  </li>
-  <li>
-    <h2>Optimal Transport Meets Healthcare Optimization</h2>
-    <p class="meta">Hadrien De March, Nathan Sauldubois, and Nizar Touzi. 2022.</p>
-  </li>
-</ul>

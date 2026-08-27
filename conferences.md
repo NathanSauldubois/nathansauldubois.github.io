@@ -27,10 +27,6 @@ Selected conference presentations, workshops, seminars, and research talks.
     <p class="link-row"><a href="https://eventi.unibo.it/bachelier">Conference website</a><a href="https://bfs2026-abstract-book.netlify.app/">Book of abstracts</a></p>
   </li>
   <li>
-    <h2>Model Risk Static-Hedging: A Constrained Distributionally Robust Optimization Approach</h2>
-    <p class="meta">Workshop "Stochastic Control and Risk", Hammamet, Tunisia, April 2026.</p>
-  </li>
-  <li>
     <h2>Adapted Wasserstein Gradient Flow and Projected Langevin Dynamics for Weak Optimal Transport</h2>
     <p class="meta">Workshop "Stochastic Control and Risk", Hammamet, Tunisia, April 2026.</p>
   </li>
