@@ -12,17 +12,25 @@ My teaching interests are in stochastic calculus, mathematical finance, probabil
 
 <ul class="repository-list compact-list">
   <li>
-    <h2>Summer Bootcamp</h2>
+    <h2>Option Pricing and Stochastic Calculus &mdash; Fall 2026</h2>
+    <p class="meta">Graduate course, M.S. in Financial Risk Engineering, Fall 2026.</p>
+  </li>
+  <li>
+    <h2>Financial Computing Recitations &mdash; Fall 2026</h2>
+    <p class="meta">Graduate recitations, M.S. in Financial Risk Engineering, Fall 2026.</p>
+  </li>
+  <li>
+    <h2>Summer Bootcamp &mdash; Summer 2026</h2>
     <p class="meta">Graduate bootcamp, M.S. in Financial Risk Engineering, Summer 2026.</p>
     <p><a href="https://github.com/NathanSauldubois/Summer-Bootcamp.git">Bootcamp repository</a></p>
   </li>
   <li>
-    <h2>Option Pricing and Stochastic Calculus</h2>
+    <h2>Option Pricing and Stochastic Calculus &mdash; Spring 2026</h2>
     <p class="meta">Graduate course, M.S. in Financial Risk Engineering, Spring 2026.</p>
     <p><a href="https://github.com/NathanSauldubois/Student-Ressources-Stochastic-Calculus-and-Option-Pricing.git">Course repository</a></p>
   </li>
   <li>
-    <h2>Winter Math Bootcamp: From Brain Teasers to Black-Scholes</h2>
+    <h2>Winter Math Bootcamp: From Brain Teasers to Black-Scholes &mdash; Winter 2026</h2>
     <p class="meta">Graduate bootcamp, M.S. in Financial Risk Engineering, Winter 2026.</p>
     <p><a href="https://github.com/NathanSauldubois/Student-Ressources-Winter-Bootcamp.git">Bootcamp repository</a></p>
   </li>
