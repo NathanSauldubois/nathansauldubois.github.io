@@ -8,7 +8,7 @@ permalink: /articles/
 
 <ul class="article-list">
   <li>
-    <h2>First-order Martingale Model Risk and Semi-static Hedging</h2>
+    <h2>First-Order Martingale Model Risk and Semi-Static Hedging</h2>
     <p class="meta">Nathan Sauldubois and Nizar Touzi. 2024. arXiv preprint. Under revision at SIAM Journal on Financial Mathematics.</p>
     <p class="link-row"><a href="https://arxiv.org/abs/2410.06906">arXiv:2410.06906</a><a href="https://arxiv.org/pdf/2410.06906">PDF</a></p>
     <p>First-order distributionally robust sensitivities for model risk under martingale and first-marginal constraints, with explicit semi-static hedging characterizations.</p>
@@ -48,15 +48,19 @@ permalink: /articles/
 
 <ul class="article-list compact-list">
   <li>
+    <h2>Distributionally Robust Optimization in Continuous Time Under Law Constraints</h2>
+    <p class="meta">Robert Crowell, Nathan Sauldubois, and Nizar Touzi. 2025.</p>
+  </li>
+  <li>
     <h2>Order-n Expansions in Classical and Causal Distributionally Robust Optimization</h2>
-    <p class="meta">Nathan Sauldubois.</p>
+    <p class="meta">Nathan Sauldubois. 2024.</p>
   </li>
   <li>
     <h2>A Linear-Quadratic Mean-Field Games Approach to the Marketplace Problem</h2>
-    <p class="meta">Nathan Sauldubois and Nizar Touzi.</p>
+    <p class="meta">Nathan Sauldubois and Nizar Touzi. 2023.</p>
   </li>
   <li>
     <h2>Optimal Transport Meets Healthcare Optimization</h2>
-    <p class="meta">Hadrien De March, Nathan Sauldubois, and Nizar Touzi.</p>
+    <p class="meta">Hadrien De March, Nathan Sauldubois, and Nizar Touzi. 2022.</p>
   </li>
 </ul>
