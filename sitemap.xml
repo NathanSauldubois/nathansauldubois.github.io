@@ -13,6 +13,9 @@ layout: null
     <loc>{{ site.url }}{{ '/articles/' | relative_url }}</loc>
   </url>
   <url>
+    <loc>{{ site.url }}{{ '/conferences/' | relative_url }}</loc>
+  </url>
+  <url>
     <loc>{{ site.url }}{{ '/teaching/' | relative_url }}</loc>
   </url>
   <url>

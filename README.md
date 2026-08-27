@@ -7,6 +7,7 @@ This repository contains a minimal Jekyll website for GitHub Pages.
 - `index.md`: About page and homepage.
 - `cv.md`: CV page with a link to `files/cv.pdf`.
 - `articles.md`: Publications and preprints.
+- `conferences.md`: Conference presentations, workshops, seminars, and research talks.
 - `teaching.md`: Teaching interests and experience.
 - `repositories.md`: Selected GitHub repositories.
 - `contact.md`: Contact and profile links.
