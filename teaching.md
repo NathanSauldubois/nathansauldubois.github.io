@@ -48,3 +48,5 @@ My teaching interests are in stochastic calculus, mathematical finance, probabil
 ## Supervision
 
 <p>Co-supervision of Arthur Compoint's research internship on continuous-time model risk for stochastic optimization problems, 2025.</p>
+
+<p>Co-supervision of Tianshi Liu's PhD research on numerical schemes for projected Langevin dynamics at NYU, under the supervision of Xin Zhang, since 2026.</p>

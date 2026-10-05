@@ -24,7 +24,7 @@ Selected research code and teaching material.
   <li>
     <h2>DRO Higher-Order Sensitivity Analysis</h2>
     <p>Research code for higher-order sensitivity expansions in classical and causal distributionally robust optimization.</p>
-    <p><a href="https://github.com/NathanSauldubois/DRO-higher-order-sensitivity-analysis.git">GitHub repository</a></p>
+    <p class="link-row"><a href="https://github.com/NathanSauldubois/DRO-higher-order-sensitivity-analysis.git">GitHub repository</a><a href="https://arxiv.org/abs/2609.25345">Related preprint</a></p>
   </li>
   <li>
     <h2>Adapted Wasserstein Gradient Flow for Weak Optimal Transport</h2>
