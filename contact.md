@@ -7,7 +7,8 @@ permalink: /contact/
 # Contact
 
 <ul class="contact-list">
-  <li><strong>Email:</strong> <a href="mailto:nathan.sauldubois@free.fr">nathan.sauldubois@free.fr</a></li>
+  <li><strong>Academic email (NYU):</strong> <a href="mailto:ns6982@nyu.edu">ns6982@nyu.edu</a></li>
+  <li><strong>Personal email:</strong> <a href="mailto:nathan.sauldubois@free.fr">nathan.sauldubois@free.fr</a></li>
   <li><strong>GitHub:</strong> <a href="https://github.com/NathanSauldubois">NathanSauldubois</a></li>
   <li><strong>arXiv:</strong> <a href="https://arxiv.org/search/?query=Nathan+Sauldubois&searchtype=author">Nathan Sauldubois on arXiv</a></li>
   <li><strong>CV:</strong> <a href="{{ '/files/cv.pdf' | relative_url }}">Download CV</a></li>
