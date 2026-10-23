@@ -75,8 +75,8 @@ Selected conference presentations, workshops, seminars, and research talks.
 <ul class="article-list compact-list">
   <li>
     <h2>Optimal Transport in Robust Finance</h2>
-    <p class="meta">Invited session at the 2026 INFORMS Annual Meeting, Moscone Center and Marriott Marquis, San Francisco, California, USA, November 1-4, 2026.</p>
+    <p class="meta">Invited session at the 2026 INFORMS Conference on Financial Engineering and FinTech, Stevens Institute of Technology, Hoboken, New Jersey, USA, November 6-7, 2026.</p>
     <p>Co-organized with Xin Zhang.</p>
-    <p><a href="https://meetings.informs.org/wordpress/annual/">Conference website</a></p>
+    <p><a href="https://www.stevens.edu/page-right-nav/2026-informs-conference-on-financial-engineering-and-fintech">Conference website</a></p>
   </li>
 </ul>
