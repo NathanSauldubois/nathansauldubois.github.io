@@ -14,12 +14,12 @@ My teaching interests are in stochastic calculus, mathematical finance, probabil
   <li>
     <h2>Option Pricing and Stochastic Calculus &mdash; Fall 2026</h2>
     <p class="meta">Graduate course, M.S. in Financial Risk Engineering, Fall 2026.</p>
-    <p><a href="https://github.com/NathanSauldubois/stochastic-calculus-option-pricing-fall-2026-students">Student repository (access required)</a></p>
+    <p><a href="https://github.com/NathanSauldubois/stochastic-calculus-option-pricing-fall-2026-students">Student repository</a></p>
   </li>
   <li>
     <h2>Financial Computing Recitations (C++) &mdash; Fall 2026</h2>
     <p class="meta">Graduate recitations, M.S. in Financial Risk Engineering, Fall 2026.</p>
-    <p><a href="https://github.com/NathanSauldubois/cpp-financial-computing-fall-2026-students">Student repository (access required)</a></p>
+    <p><a href="https://github.com/NathanSauldubois/cpp-financial-computing-fall-2026-students">Student repository</a></p>
   </li>
   <li>
     <h2>Summer Bootcamp &mdash; Summer 2026</h2>

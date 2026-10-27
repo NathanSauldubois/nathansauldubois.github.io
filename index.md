@@ -16,10 +16,6 @@ I received my Ph.D. in Applied Mathematics from &Eacute;cole Polytechnique under
   <a class="button-link secondary" href="{{ '/files/cv.pdf' | relative_url }}">CV</a>
 </p>
 
-## Latest Preprint
-
-[Initialization Stability and Convergence of Projected Langevin Dynamics](https://arxiv.org/abs/2610.35369), with Qi Feng and Xin Zhang (October 2026). We study convergence of projected Langevin dynamics from arbitrary initial distributions, including laws outside the set of couplings.
-
 ## Research Focus
 
 <ul class="tag-list">
