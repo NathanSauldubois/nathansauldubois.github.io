@@ -37,13 +37,23 @@ Selected research code and teaching material.
 
 <ul class="repository-list">
   <li>
+    <h2>Stochastic Calculus and Option Pricing &mdash; Fall 2026</h2>
+    <p>Student resources for the graduate Option Pricing and Stochastic Calculus course in the M.S. in Financial Risk Engineering at NYU Tandon.</p>
+    <p><a href="https://github.com/NathanSauldubois/stochastic-calculus-option-pricing-fall-2026-students">Student repository (access required)</a></p>
+  </li>
+  <li>
+    <h2>Financial Computing Recitations (C++) &mdash; Fall 2026</h2>
+    <p>Student resources for the graduate C++ Financial Computing recitations in the M.S. in Financial Risk Engineering at NYU Tandon.</p>
+    <p><a href="https://github.com/NathanSauldubois/cpp-financial-computing-fall-2026-students">Student repository (access required)</a></p>
+  </li>
+  <li>
     <h2>Summer Bootcamp</h2>
     <p>Student resources for the Summer Bootcamp taught in the M.S. in Financial Risk Engineering at NYU Tandon.</p>
     <p><a href="https://github.com/NathanSauldubois/Summer-Bootcamp.git">GitHub repository</a></p>
   </li>
   <li>
-    <h2>Stochastic Calculus and Option Pricing</h2>
-    <p>Student resources for the graduate Option Pricing and Stochastic Calculus course in the M.S. in Financial Risk Engineering at NYU Tandon.</p>
+    <h2>Stochastic Calculus and Option Pricing &mdash; Spring 2026</h2>
+    <p>Student resources for the Spring 2026 graduate Option Pricing and Stochastic Calculus course in the M.S. in Financial Risk Engineering at NYU Tandon.</p>
     <p><a href="https://github.com/NathanSauldubois/Student-Ressources-Stochastic-Calculus-and-Option-Pricing.git">GitHub repository</a></p>
   </li>
   <li>
