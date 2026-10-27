@@ -27,6 +27,12 @@ permalink: /articles/
 
 <ul class="article-list">
   <li>
+    <h2>Initialization Stability and Convergence of Projected Langevin Dynamics</h2>
+    <p class="meta">Qi Feng, Nathan Sauldubois, and Xin Zhang. 2026. arXiv preprint.</p>
+    <p class="link-row"><a href="https://arxiv.org/abs/2610.35369">arXiv:2610.35369</a><a href="https://arxiv.org/pdf/2610.35369">PDF</a></p>
+    <p>Initialization stability of projected Langevin dynamics: under suitable assumptions, convergence to the entropic optimal transport optimizer from arbitrary initial distributions, including laws that do not satisfy the prescribed marginal constraints.</p>
+  </li>
+  <li>
     <h2>Model Risk Static-Hedging: A Constrained Distributionally Robust Optimization Approach</h2>
     <p class="meta">Nathan Sauldubois. 2026. arXiv preprint.</p>
     <p class="link-row"><a href="https://arxiv.org/abs/2601.20139">arXiv:2601.20139</a><a href="https://arxiv.org/pdf/2601.20139">PDF</a></p>
